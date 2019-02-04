@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Greenpeace style</title>
+    <link href="https://greenpeaceuk.github.io/gpukstyle/feed.xml" rel="self" />
+    <link href="https://greenpeaceuk.github.io/gpukstyle" />
+    <updated>2019-02-04T14:38:01+00:00</updated>
+    <author>
+        <name>Julius</name>
+    </author>
+    <id>https://greenpeaceuk.github.io/gpukstyle</id>
+
+    <entry>
+        <title>Quotes</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/quotes/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/quotes/</id>
+
+        <updated>2019-01-29T17:43:38+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/29/" alt="" />
+                    Pull quotePull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/29/" alt="" />
+                <h2 id="mcetoc_1d2d46i6f7">Pull quote</h2>
+<p>Pull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes repeat text that exists elsewhere in the content.</p>
+<h2 id="mcetoc_1d2d46i6f8">Block quote</h2>
+<p>A block quote is a longer quote which exists within the normal flow of context.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Links</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/links/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/links/</id>
+
+        <updated>2019-01-30T10:58:02+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/28/" alt="" />
+                    Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content elsewhere on the website and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/28/" alt="" />
+                <p id="mcetoc_1d2d46i6f5">Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content elsewhere on the website and trusted external resources.</p>
+<p>Good links tell people where they’re going to end up when they click on them. Avoid using words that wouldn’t make sense without the link. And definitely don’t use “click here” or “read this”. Write the sentence as you normally would, and link relevant keywords.</p>
+<p>Don’t include preceding articles (a, an, the, our) when you link text. Generally, add links to nouns not verbs. For example:</p>
+<p class="msg msg--success">You can get involved; there’s an <a href="#">action pack</a> to help you.</p>
+<p class="msg msg--warning">You can get involved; there’s <a href="#">an action pack</a> to help you.</p>
+<p class="msg msg--warning">You can get involved; <a href="#">click here</a> for the action pack.</p>
+<p>If a link comes at the end of a sentence or before a comma, don’t link the punctuation mark.</p>
+<p>Buttons are better than linked text for actions, but if you’re linking a call to action in text, include the verb.</p>
+<p class="msg msg--success">Let’s <a href="#">share this new discovery</a> with the world, and keep the reef safe from the threat of an oil spill.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bold and italics</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/bold-and-italics/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/bold-and-italics/</id>
+
+        <updated>2019-01-29T17:42:42+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/27/" alt="" />
+                    We don’t use bold in normal text on the website. Where they improve clarity and help to make the point, we use italics to emphasise&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/27/" alt="" />
+                <p id="mcetoc_1d2d46i6f5">We don’t use bold in normal text on the website. Where they improve clarity and help to make the point, we use italics to emphasise words within a sentence, but very sparingly.</p>
+<p class="msg msg--success">Car makers around the world are responsible for large amounts of pollution. Many of those who <em>have </em>reduced their emissions have made big steps forward.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Headings</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/headings/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/headings/</id>
+
+        <updated>2019-01-29T17:42:17+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/26/" alt="" />
+                    Typography and hierarchy is important. It’s a vital element of our design. H1 and h2 tags are used by search engines to understand the structure&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/26/" alt="" />
+                <p id="mcetoc_1d2d46i6f1">Typography and hierarchy is important. It’s a vital element of our design. H1 and h2 tags are used by search engines to understand the structure of our content. Using headings also helps make our content readable and accessible by breaking up text and making it easily scannable.</p>
+<h2 id="mcetoc_1d2d46i6f2">Formatting</h2>
+<p>Each page should have only one h1, the page title. The first level of subheadings are h2s. We also sometimes use h3s, though we avoid using too many different levels. We never use bold, italics or underlining to style text as a heading.</p>
+<h2 id="mcetoc_1d2d46i6f3">Style</h2>
+<p>Headings should be in sentence case. This aids readability and fits with our voice.</p>
+<h2 id="mcetoc_1d2d46i6f4">Substance</h2>
+<p>Text in headings should be concise and informative.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Buttons</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/buttons/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/buttons/</id>
+
+        <updated>2019-01-29T17:41:25+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/25/" alt="" />
+                    Buttons should always contain actions. The language should be clear and concise. Capitalise only the first word. Standard buttons on our site include: Sign the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/25/" alt="" />
+                <p id="mcetoc_1d2d46i6f0">Buttons should always contain actions. The language should be clear and concise. Capitalise only the first word. Standard buttons on our site include:</p>
+<p class="msg msg--success">Sign the petition</p>
+<p class="msg msg--success">Subscribe</p>
+<p class="msg msg--success">Donate</p>
+<p class="msg msg--success">Read more</p>
+<p>These verbs have also been found to work well in calls to action:</p>
+<p class="msg msg--success">Expose</p>
+<p class="msg msg--success">Spread the word</p>
+<p class="msg msg--success">Raise your voice</p>
+<p class="msg msg--success">Unite</p>
+<p class="msg msg--success">Support</p>
+<p class="msg msg--success">Join</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Content elements</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/content-elements-2/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/content-elements-2/</id>
+
+        <updated>2019-01-29T17:43:30+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/24/" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/24/" alt="" />
+                <p> </p>
+<h2 id="mcetoc_1d2d46i6f7"> </h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Web accessibility</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/web-accessibility/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/web-accessibility/</id>
+
+        <updated>2019-01-17T20:10:44+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/23/" alt="" />
+                    Accessibility is important for everyone, not just people with disabilities. Trying to read a non-responsive website on a phone with a terrible data signal shows&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/23/" alt="" />
+                <p>Accessibility is important for everyone, not just people with disabilities. Trying to read a non-responsive website on a phone with a terrible data signal shows that accessibility can also be situational. We make our content accessible because we care about equity and social justice. We also do it because it improves our content and makes stronger campaigns.</p>
+<p>There are lots of good accessibility resources on the web, including the official <a href="https://www.w3.org/standards/webdesign/accessibility">W3C guidelines</a>.</p>
+<h3>Content design</h3>
+<p>Break up text into short paragraphs to and make it easy to scan. Use subheadings and bullet points to guide readers through the text.</p>
+<h3>Plain English</h3>
+<p>Use simple language when you can, and explain what you mean, or link to an explanation when you can’t. Avoid jargon and slang. If you need to use an <a href="https://docs.google.com/document/d/1ri14IVcob5pszgGCWdZDTHn5nszBkSCbIYmUOVv78hw/edit#heading=h.9w0nnsifvnqw">abbreviation or acronym</a> that people may not understand, explain what it means on first reference.</p>
+<p>The <a href="http://splasho.com/upgoer5/">Upgoer text editor</a> restricts you to the 1000 most commonly-used words in the English language. Try writing a paragraph of your next email or article in it.</p>
+<p>Use <a href="http://www.hemingwayapp.com/">Hemingway App</a> or <a href="https://typely.com/">Typely</a> to check for readability issues.</p>
+<h3>Links</h3>
+<p>Make sure the text of the link describes the thing it links to. This is especially important for people using screen readers, who might skip between the links on the page looking for something specific. Using “click here” won’t tell them anything.</p>
+<p>Read the <a href="#INTERNAL_LINK#/post/7">full guidance on using links</a> like a pro.</p>
+<h3>Images</h3>
+<h4>Alt text</h4>
+<p>Alt text is a way to label images. It's especially important for people who can’t see the images on our website and rely on screen readers to understand our content.</p>
+<p>If an image is essential to understanding the overall meaning of the content (eg a map or diagram), use alt text to describe the image in a brief sentence or two so that people who don’t see the image should come away with the same information as if they had. You don’t need to say ‘image of…’ at the start of your description.</p>
+<p>If the image is purely decorative, use an empty alt text tag (&lt;alt=“”&gt;) to tell screen readers to skip it.</p>
+<p>Never omit the alt tag entirely, as some screen readers will read out the full image url instead, which is about the worst user experience you can imagine.</p>
+<h4>Contrast</h4>
+<p>We create a lot of images with text over the top. Make sure there’s enough contrast on the text so it’s easy to read.</p>
+<p>Use a <a href="https://webaim.org/resources/contrastchecker/">contrast checker</a> to make sure your text is readable.</p>
+<h4>File size</h4>
+<p>Keep the file size of your image as small as you can, so people using slow connections don’t have to wait too long for it to load.</p>
+<p>Photoshop has a whole range of options to help you export small image files – use your judgment (and Photoshop’s side-by-side comparison tool) to decide where to draw the line between image quality and file size.</p>
+<p>Don’t over-compress JPEGs, as this results in poor quality images. Each image is different – images with large areas of flat colour will compress more easily than complex, busy images. As a general rule of thumb, avoid compressing JPEGs to anything less than 60%.</p>
+<h4>File type</h4>
+<p>Use the appropriate image type: JPEGs for photos, PNGs or vector files for graphics.</p>
+<h3>Video</h3>
+<h4>Text alternatives</h4>
+<p>Help people with limited vision or a slow internet connection by providing a text alternative to a video wherever possible. This could take the form of an embedded subtitle file, a transcript, or an accompanying article that summarises the key arguments. Note that burned-in subtitles can’t be interpreted by screen readers.</p>
+<h4>Flashing images</h4>
+<p>Avoid flashing images, or if they’re unavoidable, add a clear warning to the start of the video.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Inclusivity</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/inclusivity/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/inclusivity/</id>
+
+        <updated>2019-01-29T15:38:40+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/22/" alt="" />
+                    We want to ensure that our content is accessible and welcoming to everyone who uses it. Inclusive language helps us to be more accurate and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/22/" alt="" />
+                <p>We want to ensure that our content is accessible and welcoming to everyone who uses it. Inclusive language helps us to be more accurate and build trust with our users.</p>
+<p>This guidance is influenced by the <a href="http://consciousstyleguide.com/">Conscious Style Guide</a>, <a href="http://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf">A Progressive’s Style Guide</a> and the <a href="https://www.diversitystyleguide.com/">Diversity Style Guide</a>, all of which are good sources of more detail on inclusive language.</p>
+<h2 id="mcetoc_1d2d43uc20">Ability and disability</h2>
+<p>Every person is a whole person — no matter how they interact with the world. Focus on what they need to do, what tools they use, and avoid making assumptions.</p>
+<p>Avoid terms that contribute to stigmas around disability or mental illness: crazy, dumb, lame, insane, psycho, schizophrenic, or stupid.</p>
+<p>Avoid terms that contribute to stigmas around sensory disabilities: blind spot or tone deaf.</p>
+<h2 id="mcetoc_1d2d43uc21">Age</h2>
+<p>Avoid referring to someone’s age, unless it’s relevant to what you’re writing about.</p>
+<p>Don’t use women or older relatives as substitute for novice or beginner. For example, don’t say something is so simple your mother can use it.</p>
+<p>We prefer older person to elderly.</p>
+<h2 id="mcetoc_1d2d43uc22">Gender and sexuality</h2>
+<p>Make content gender neutral wherever possible, and strive to write in a gender-fair way. If you’re writing about a hypothetical person or if you’re unsure of the person’s pronouns, use they or them instead of he/she.</p>
+<p>Avoid words and phrases that indicate gender bias, such as irrelevant descriptions of appearance.</p>
+<p>Use descriptors of gender identity or sexual orientation as modifiers, not as nouns (for example, transgender person, or lesbian woman). Avoid guessing sex, gender identity, or sexual orientation.</p>
+<p>We support using they or their as singular pronouns.</p>
+<p>Be consistent about how you address people. People in authority are more likely to be referred to by their surname if they are a man, and by their first name if they are a woman. Avoid this by always using someone’s full name on the first mention and then their surname after that.</p>
+<h2 id="mcetoc_1d2d43uc23">Nationality</h2>
+<p>Try to avoid grouping people by nationality or making generalisations about people from a particular country. If you need to, use an adjective with “people”, so “German people”, “Russian people” rather than “the Germans” or “the Russians”.</p>
+<p>Don’t conflate a country’s government with its people:</p>
+<p class="msg msg--success">The Japanese government blocked the plan.</p>
+<p class="msg msg--warning">Japan blocked the plan.</p>
+<p>How you refer to the public is largely dependent on context. Feel free to choose from any of these words: people, the public or users.</p>
+<h2 id="mcetoc_1d2d43uc24">Race, ethnicity, and religion</h2>
+<p>Avoid using words, images, or situations that reinforce racial, ethnic, or religious stereotypes (even stereotypes that may appear to be positive). Avoid the term non-white, or other terms that treat whiteness as a default.</p>
+<p>Don’t make assumptions: ask how people identify themselves, and be aware of complexities within racial, ethnic, and religious identities. For example, not all Arabs are Muslim, and many nationalities and ethnicities include various religious practices and traditions.</p>
+<p>When referring to a person’s race or ethnicity, use adjectives, not nouns (for example, a Hispanic person, not a Hispanic).</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Punctuation</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/punctuation/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/punctuation/</id>
+
+        <updated>2019-01-29T17:38:06+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/21/" alt="" />
+                    Punctuation helps readers understand our content, clarifying, signposting and generally making life smoother for everyone. To make sure that all the dots, lines and squiggles&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/21/" alt="" />
+                <p>Punctuation helps readers understand our content, clarifying, signposting and generally making life smoother for everyone. To make sure that all the dots, lines and squiggles live up to their potential, use them consistently.</p>
+<h2 id="mcetoc_1d2d3qlph0">Colons </h2>
+<p>Don't capitalise the first word after a colon. For example:</p>
+<p class="msg msg--success">I have several favourite mammals: gorillas, pumas and red pandas.</p>
+<p class="msg msg--success">I have several favourite mammals: gorillas were my first love, but red pandas are a rising star in my life.</p>
+<h2 id="mcetoc_1d2d3qlph1">Commas</h2>
+<p>We don’t use the serial comma (sometimes called the Oxford comma) except where it’s needed to clarify meaning. In a list of three or more items, don’t include a comma before the conjunction.</p>
+<p class="msg msg--success">The Congo is home to bonobos, okapi and manatees.</p>
+<p class="msg msg--warning">The Congo is home to bonobos, okapi, and manatees.</p>
+<p>But <i>do</i> use a comma to clarify meaning:</p>
+<p class="msg msg--success">The report discusses the impact of great environmentalists such as Naomi Klein, and Michael Gove.</p>
+<p class="msg msg--warning">The report discusses the impact of great environmentalists such as Naomi Klein and Michael Gove.</p>
+<h2 id="mcetoc_1d2d7dp090">Dashes</h2>
+<p>When offsetting a phrase with dashes you should use the en dash (–), with a space on either side of the dash. For example:</p>
+<p class="msg msg--success">Black plastic – often used for takeaway food – is one of the most problematic forms of plastic you can find on supermarket shelves.</p>
+<p>Although we advocate using words rather than symbols, in some contexts you may use a shorter dash to convey a range of numbers. For example, both 10-20 dolphins and 10 to 20 dolphins are acceptable options. We don’t use em dashes (—).</p>
+<p class="msg msg--success">We assign 2-3 people to each boat.</p>
+<h2 id="mcetoc_1d2d3qlph3">Quotes</h2>
+<p>When using quotes, make sure the punctuation relating to the quote sits within quote marks, and the punctuation that doesn’t sits outside it.</p>
+<p>Use double speech marks in the first instance, and single speech marks for quotes within quotes.</p>
+<p>These quotations are correctly punctuated:</p>
+<p class="msg msg--success">“Would you like to help save orangutans?” he asked.</p>
+<p class="msg msg--success">“I hate orangutans,” she said. “You know I hate orangutans.”</p>
+<p class="msg msg--success">He paused before saying “orangutans are not something people should hate.”</p>
+<h2 id="mcetoc_1d2d3qlph4">Spaces</h2>
+<p>Sentences should always be separated by a single space. Never two spaces.</p>
+<h2 id="mcetoc_1d2d3qlph5">Ampersands and plus signs</h2>
+<p>Use “and” instead of an ampersand (&amp;) or plus sign (+), unless they’re part of an official title or company name.</p>
+<h2 id="mcetoc_1d2d3qlph6">Slashes</h2>
+<p>Avoid using the slash (/) symbol. Replace it with words or commas as appropriate.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bulleted lists</title>
+        <author>
+            <name>Julius</name>
+        </author>
+        <link href="https://greenpeaceuk.github.io/gpukstyle/bulleted-lists/"/>
+        <id>https://greenpeaceuk.github.io/gpukstyle/bulleted-lists/</id>
+
+        <updated>2019-01-17T20:18:15+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/20/" alt="" />
+                    Bullet points are great for emphasising important information. Use them when the items in your list are in no particular order. And do so sparingly:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/20/" alt="" />
+                <p>Bullet points are great for emphasising important information. Use them when the items in your list are in no particular order. And do so sparingly: too many bulleted lists in the same piece of content will mean that their impact is lost.</p>
+<p>If you're introducing your list with some text, follow that text with a colon.</p>
+<p>If the items in your list are full sentences, punctuate them like sentences, with a capital letter and a full stop.</p>
+<div class="msg msg--success">
+<p>Logging has already had devastating effects on the Congo basin rainforest:</p>
+<ul>
+<li>The forest can no longer store as much carbon.</li>
+<li>Biodiversity is threatened.</li>
+<li>Forest fires are becoming more frequent.</li>
+<li>The forest is less resilient to climate change.</li>
+</ul>
+</div>
+<p>If the items in your list are not full sentences, follow them with commas, except the penultimate item, which should end with "and", and the last item, which should end with a full stop. And don't start them with capital letters. Punctuate your list as you would a normal sentence.</p>
+<div class="msg msg--success">
+<p>Logging has already had devastating effects on the Congo basin rainforest:</p>
+<ul>
+<li>reducing the amount of carbon the forest can store,</li>
+<li>threatening biodiversity,</li>
+<li>increasing forest fires and</li>
+<li>damaging the forest’s resilience to climate change.</li>
+</ul>
+</div>
+<p>If the items in your list are not full sentences, but have multiples clauses, end them with semicolons, except the penultimate item, which should end with "; and" and the last item, which should end with a full stop.</p>
+<div class="msg msg--success">
+<p>It’s vital that we protect the Congo basin, because the forest:</p>
+<ul>
+<li>is home to iconic species, like bonobos, okapi and manatees;</li>
+<li>contains peatlands, which store huge amounts of carbon; and</li>
+<li>provides food, often bushmeat, for millions of people.</li>
+</ul>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
