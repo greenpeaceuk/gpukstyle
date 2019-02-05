@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Greenpeace style</title>
-    <link href="https://greenpeaceuk.github.io/gpukstyle/feed.xml" rel="self" />
-    <link href="https://greenpeaceuk.github.io/gpukstyle" />
-    <updated>2019-02-05T10:03:18+00:00</updated>
+    <link href="https://style.greenpeace.org.uk/feed.xml" rel="self" />
+    <link href="https://style.greenpeace.org.uk" />
+    <updated>2019-02-05T10:04:18+00:00</updated>
     <author>
         <name>Julius</name>
     </author>
-    <id>https://greenpeaceuk.github.io/gpukstyle</id>
+    <id>https://style.greenpeace.org.uk</id>
 
     <entry>
         <title>Quotes</title>
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/quotes/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/quotes/</id>
+        <link href="https://style.greenpeace.org.uk/quotes/"/>
+        <id>https://style.greenpeace.org.uk/quotes/</id>
 
         <updated>2019-01-29T17:43:38+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/29/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/29/" alt="" />
                     Pull quotePull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/29/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/29/" alt="" />
                 <h2 id="mcetoc_1d2d46i6f7">Pull quote</h2>
 <p>Pull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes repeat text that exists elsewhere in the content.</p>
 <h2 id="mcetoc_1d2d46i6f8">Block quote</h2>
@@ -39,19 +39,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/links/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/links/</id>
+        <link href="https://style.greenpeace.org.uk/links/"/>
+        <id>https://style.greenpeace.org.uk/links/</id>
 
         <updated>2019-01-30T10:58:02+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/28/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/28/" alt="" />
                     Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content elsewhere on the website and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/28/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/28/" alt="" />
                 <p id="mcetoc_1d2d46i6f5">Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content elsewhere on the website and trusted external resources.</p>
 <p>Good links tell people where they’re going to end up when they click on them. Avoid using words that wouldn’t make sense without the link. And definitely don’t use “click here” or “read this”. Write the sentence as you normally would, and link relevant keywords.</p>
 <p>Don’t include preceding articles (a, an, the, our) when you link text. Generally, add links to nouns not verbs. For example:</p>
@@ -69,19 +69,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/bold-and-italics/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/bold-and-italics/</id>
+        <link href="https://style.greenpeace.org.uk/bold-and-italics/"/>
+        <id>https://style.greenpeace.org.uk/bold-and-italics/</id>
 
         <updated>2019-01-29T17:42:42+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/27/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/27/" alt="" />
                     We don’t use bold in normal text on the website. Where they improve clarity and help to make the point, we use italics to emphasise&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/27/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/27/" alt="" />
                 <p id="mcetoc_1d2d46i6f5">We don’t use bold in normal text on the website. Where they improve clarity and help to make the point, we use italics to emphasise words within a sentence, but very sparingly.</p>
 <p class="msg msg--success">Car makers around the world are responsible for large amounts of pollution. Many of those who <em>have </em>reduced their emissions have made big steps forward.</p>
             ]]>
@@ -92,19 +92,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/headings/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/headings/</id>
+        <link href="https://style.greenpeace.org.uk/headings/"/>
+        <id>https://style.greenpeace.org.uk/headings/</id>
 
         <updated>2019-01-29T17:42:17+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/26/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/26/" alt="" />
                     Typography and hierarchy is important. It’s a vital element of our design. H1 and h2 tags are used by search engines to understand the structure&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/26/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/26/" alt="" />
                 <p id="mcetoc_1d2d46i6f1">Typography and hierarchy is important. It’s a vital element of our design. H1 and h2 tags are used by search engines to understand the structure of our content. Using headings also helps make our content readable and accessible by breaking up text and making it easily scannable.</p>
 <h2 id="mcetoc_1d2d46i6f2">Formatting</h2>
 <p>Each page should have only one h1, the page title. The first level of subheadings are h2s. We also sometimes use h3s, though we avoid using too many different levels. We never use bold, italics or underlining to style text as a heading.</p>
@@ -120,19 +120,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/buttons/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/buttons/</id>
+        <link href="https://style.greenpeace.org.uk/buttons/"/>
+        <id>https://style.greenpeace.org.uk/buttons/</id>
 
         <updated>2019-01-29T17:41:25+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/25/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/25/" alt="" />
                     Buttons should always contain actions. The language should be clear and concise. Capitalise only the first word. Standard buttons on our site include: Sign the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/25/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/25/" alt="" />
                 <p id="mcetoc_1d2d46i6f0">Buttons should always contain actions. The language should be clear and concise. Capitalise only the first word. Standard buttons on our site include:</p>
 <p class="msg msg--success">Sign the petition</p>
 <p class="msg msg--success">Subscribe</p>
@@ -153,19 +153,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/content-elements-2/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/content-elements-2/</id>
+        <link href="https://style.greenpeace.org.uk/content-elements-2/"/>
+        <id>https://style.greenpeace.org.uk/content-elements-2/</id>
 
         <updated>2019-01-29T17:43:30+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/24/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/24/" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/24/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/24/" alt="" />
                 <p> </p>
 <h2 id="mcetoc_1d2d46i6f7"> </h2>
             ]]>
@@ -176,19 +176,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/web-accessibility/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/web-accessibility/</id>
+        <link href="https://style.greenpeace.org.uk/web-accessibility/"/>
+        <id>https://style.greenpeace.org.uk/web-accessibility/</id>
 
         <updated>2019-01-17T20:10:44+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/23/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/23/" alt="" />
                     Accessibility is important for everyone, not just people with disabilities. Trying to read a non-responsive website on a phone with a terrible data signal shows&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/23/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/23/" alt="" />
                 <p>Accessibility is important for everyone, not just people with disabilities. Trying to read a non-responsive website on a phone with a terrible data signal shows that accessibility can also be situational. We make our content accessible because we care about equity and social justice. We also do it because it improves our content and makes stronger campaigns.</p>
 <p>There are lots of good accessibility resources on the web, including the official <a href="https://www.w3.org/standards/webdesign/accessibility">W3C guidelines</a>.</p>
 <h3>Content design</h3>
@@ -228,19 +228,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/inclusivity/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/inclusivity/</id>
+        <link href="https://style.greenpeace.org.uk/inclusivity/"/>
+        <id>https://style.greenpeace.org.uk/inclusivity/</id>
 
         <updated>2019-01-29T15:38:40+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/22/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/22/" alt="" />
                     We want to ensure that our content is accessible and welcoming to everyone who uses it. Inclusive language helps us to be more accurate and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/22/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/22/" alt="" />
                 <p>We want to ensure that our content is accessible and welcoming to everyone who uses it. Inclusive language helps us to be more accurate and build trust with our users.</p>
 <p>This guidance is influenced by the <a href="http://consciousstyleguide.com/">Conscious Style Guide</a>, <a href="http://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf">A Progressive’s Style Guide</a> and the <a href="https://www.diversitystyleguide.com/">Diversity Style Guide</a>, all of which are good sources of more detail on inclusive language.</p>
 <h2 id="mcetoc_1d2d43uc20">Ability and disability</h2>
@@ -275,19 +275,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/punctuation/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/punctuation/</id>
+        <link href="https://style.greenpeace.org.uk/punctuation/"/>
+        <id>https://style.greenpeace.org.uk/punctuation/</id>
 
         <updated>2019-01-29T17:38:06+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/21/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/21/" alt="" />
                     Punctuation helps readers understand our content, clarifying, signposting and generally making life smoother for everyone. To make sure that all the dots, lines and squiggles&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/21/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/21/" alt="" />
                 <p>Punctuation helps readers understand our content, clarifying, signposting and generally making life smoother for everyone. To make sure that all the dots, lines and squiggles live up to their potential, use them consistently.</p>
 <h2 id="mcetoc_1d2d3qlph0">Colons </h2>
 <p>Don't capitalise the first word after a colon. For example:</p>
@@ -326,19 +326,19 @@
         <author>
             <name>Julius</name>
         </author>
-        <link href="https://greenpeaceuk.github.io/gpukstyle/bulleted-lists/"/>
-        <id>https://greenpeaceuk.github.io/gpukstyle/bulleted-lists/</id>
+        <link href="https://style.greenpeace.org.uk/bulleted-lists/"/>
+        <id>https://style.greenpeace.org.uk/bulleted-lists/</id>
 
         <updated>2019-01-17T20:18:15+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/20/" alt="" />
+                        <img src="https://style.greenpeace.org.uk/media/posts/20/" alt="" />
                     Bullet points are great for emphasising important information. Use them when the items in your list are in no particular order. And do so sparingly:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://greenpeaceuk.github.io/gpukstyle/media/posts/20/" alt="" />
+                    <img src="https://style.greenpeace.org.uk/media/posts/20/" alt="" />
                 <p>Bullet points are great for emphasising important information. Use them when the items in your list are in no particular order. And do so sparingly: too many bulleted lists in the same piece of content will mean that their impact is lost.</p>
 <p>If you're introducing your list with some text, follow that text with a colon.</p>
 <p>If the items in your list are full sentences, punctuate them like sentences, with a capital letter and a full stop.</p>
