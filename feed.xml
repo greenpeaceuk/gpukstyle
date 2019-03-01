@@ -3,7 +3,7 @@
     <title>Greenpeace style</title>
     <link href="https://style.greenpeace.org.uk/feed.xml" rel="self" />
     <link href="https://style.greenpeace.org.uk" />
-    <updated>2019-02-27T12:11:39+00:00</updated>
+    <updated>2019-03-01T08:37:42+00:00</updated>
     <author>
         <name>Julius</name>
     </author>
@@ -17,17 +17,18 @@
         <link href="https://style.greenpeace.org.uk/quotes/"/>
         <id>https://style.greenpeace.org.uk/quotes/</id>
 
-        <updated>2019-01-29T17:43:38+00:00</updated>
+        <updated>2019-03-01T08:36:22+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://style.greenpeace.org.uk/media/posts/29/" alt="" />
-                    Pull quotePull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes&hellip;
+                    SF TestPull quotePull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://style.greenpeace.org.uk/media/posts/29/" alt="" />
-                <h2 id="mcetoc_1d2d46i6f7">Pull quote</h2>
+                <h2 id="mcetoc_1d4s6b4ba0"><em>SF Test</em></h2>
+<h2 id="mcetoc_1d2d46i6f7">Pull quote</h2>
 <p>Pull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes repeat text that exists elsewhere in the content.</p>
 <h2 id="mcetoc_1d2d46i6f8">Block quote</h2>
 <p>A block quote is a longer quote which exists within the normal flow of context.</p>
