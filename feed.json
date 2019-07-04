@@ -14,8 +14,8 @@
             "id": "https://style.greenpeace.org.uk/quotes/",
             "url": "https://style.greenpeace.org.uk/quotes/",
             "title": "Quotes",
-            "summary": "SF TestPull quotePull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull&hellip;",
-            "content_html": "<h2 id=\"mcetoc_1d4s6b4ba0\"><em>SF Test</em></h2>\n<h2 id=\"mcetoc_1d2d46i6f7\">Pull quote</h2>\n<p>Pull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes repeat text that exists elsewhere in the content.</p>\n<h2 id=\"mcetoc_1d2d46i6f8\">Block quote</h2>\n<p>A block quote is a longer quote which exists within the normal flow of context.</p>",
+            "summary": "Pull quotePull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes&hellip;",
+            "content_html": "<h2 id=\"mcetoc_1d4s6b4ba0\">Pull quote</h2>\n<p>Pull quotes can be used to highlight a short passage from the text and to visually break up the flow of text. Pull quotes repeat text that exists elsewhere in the content.</p>\n<h2 id=\"mcetoc_1d2d46i6f8\">Block quote</h2>\n<p>A block quote is a longer quote which exists within the normal flow of context.</p>",
             "image": "https://style.greenpeace.org.uk/media/posts/29/",
             "author": {
                 "name": "Julius"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2019-01-29T17:43:38+00:00",
-            "date_modified": "2019-03-01T08:36:22+00:00"
+            "date_modified": "2019-07-04T16:43:10+01:00"
         },
         {
             "id": "https://style.greenpeace.org.uk/links/",
